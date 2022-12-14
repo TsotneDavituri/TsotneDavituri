@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TsotneDavituri
-- 👀 I’m interested in the world of computers and programming, im trying my best to learn as much as i can about how they function!
-- 🌱 I’m currently following the CS50 course from harvard and im working on "The Odin Project" course aswell
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in the world of computers and programming
+
 
 <!---
 TsotneDavituri/TsotneDavituri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
